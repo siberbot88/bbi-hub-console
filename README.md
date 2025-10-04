@@ -33,9 +33,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="48" />
   <img src="https://vitejs.dev/logo.svg" alt="Vite" height="48" />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" height="48" />
   <img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" alt="Spatie" height="48" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="48" />
 </p>
 
