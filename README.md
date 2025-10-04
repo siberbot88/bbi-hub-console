@@ -8,11 +8,11 @@
 ## 🧭 Fitur Utama
 
 - 🔐 Autentikasi & manajemen role berbasis **Spatie Permission** & **Filament Shield**
-- 🧱 Multi-panel Filament (SuperAdmin & Owner)
+- 🧱 Multi-panel Filament (**SuperAdmin** & **Owner**)
 - ⚙️ CRUD otomatis dengan resource Filament
 - 💹 Dashboard interaktif & laporan analitik
 - 👥 Manajemen bengkel, karyawan, layanan, dan transaksi
-- 🧩 Modular & scalable — siap diintegrasikan dengan aplikasi Flutter (Admin & Mekanik)
+- 🧩 Modular & scalable — siap diintegrasikan dengan aplikasi **Flutter (Admin & Mekanik)**
 
 ---
 
@@ -26,6 +26,9 @@
 | **Filament Shield** | 🛡️ | Otomatisasi policy dan proteksi panel |
 | **Tailwind CSS** | 🎨 | Styling modern & responsif |
 | **Livewire + Vite** | ⚡ | Interaktivitas tanpa reload & bundling frontend |
+
+---
+
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="48" />
@@ -53,11 +56,12 @@
 
 ## 🧰 Persiapan Sebelum Instalasi
 
-Pastikan sudah terpasang:
+Pastikan kamu sudah menyiapkan environment berikut:
+
 - 🧩 PHP **>= 8.2**
 - 🧱 Composer
 - 🐬 MySQL / PostgreSQL / SQLite
-- 🧶 Node.js + npm / pnpm (opsional, untuk build aset)
+- 🧶 Node.js + npm / pnpm *(opsional, untuk build aset frontend)*
 - 🔑 Git
 
 ---
