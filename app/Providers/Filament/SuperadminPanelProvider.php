@@ -2,6 +2,9 @@
 
 namespace App\Providers\Filament;
 
+use App\Filament\Auth\Pages\ForgotPassword;
+use App\Filament\Auth\Pages\Login as LoginPage;
+use App\Filament\Auth\Pages\Register as RegisterPage;
 use Filament\Http\Middleware\Authenticate;
 use Filament\Http\Middleware\AuthenticateSession;
 use Filament\Http\Middleware\DisableBladeIconComponents;
@@ -28,7 +31,9 @@ class SuperadminPanelProvider extends PanelProvider
             ->id('superadmin')
             ->path('superadmin')
             ->brandName('BBI HUB Console')
-            ->login()
+            ->login(LoginPage::class)
+            ->registration(RegisterPage::class)
+            ->passwordReset(ForgotPassword::class)
             ->colors([
                 'primary' => Color::Amber,
             ])
