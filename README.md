@@ -26,6 +26,28 @@
 | **Filament Shield** | 🛡️ | Otomatisasi policy dan proteksi panel |
 | **Tailwind CSS** | 🎨 | Styling modern & responsif |
 | **Livewire + Vite** | ⚡ | Interaktivitas tanpa reload & bundling frontend |
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="48" />
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" height="48" />
+  <img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" alt="Spatie" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-4.x-E34F26?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-3.x-FB70A9?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spatie%20Permission-6.x-FFC107?logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament%20Shield-4.x-0EA5E9?logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white" />
+</p>
 
 ---
 
