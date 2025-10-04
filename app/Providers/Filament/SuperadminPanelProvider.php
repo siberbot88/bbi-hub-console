@@ -27,10 +27,9 @@ class SuperadminPanelProvider extends PanelProvider
             ->default()
             ->id('superadmin')
             ->path('superadmin')
-            ->brandName('BBI HUB Console')
             ->login()
             ->colors([
-                'primary' => Color::Amber,
+                'primary' => '#f59e0b',
             ])
             ->discoverResources(in: app_path('Filament/Resources'), for: 'App\Filament\Resources')
             ->discoverPages(in: app_path('Filament/Pages'), for: 'App\Filament\Pages')
